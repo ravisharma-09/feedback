@@ -6,7 +6,7 @@ After submitting it shows a thank you message
 
 Inspiration
 
-This UI is inspired from hack club style clean and simple design<img width="2704" height="1518" alt="image" src="https://github.com/user-attachments/assets/ebef99bb-cfe1-43f1-922e-6a458491a6a5" />
+This UI is inspired from hack club hctg website style clean and simple design<img width="2704" height="1518" alt="image" src="https://github.com/user-attachments/assets/ebef99bb-cfe1-43f1-922e-6a458491a6a5" />
 
 
 # Features
